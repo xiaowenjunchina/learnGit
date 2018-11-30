@@ -48,3 +48,6 @@ linux:
 简历：
 链接：https://pan.baidu.com/s/1wd7LOEzN0AWrEsjeuH3EZg 密码：iouz
 
+我就是试试git好不好用
+
+test git
